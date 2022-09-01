@@ -18,5 +18,5 @@ id,location_id,address_1,address_2,city,state_province,postal_code,country
 17,17,409 South Spruce Avenue,,South San Francisco,CA,94080,US
 18,18,114 Fifth Avenue,,Redwood City,CA,94063,US
 19,19,19 West 39th Avenue,,San Mateo,CA,94403,US
-20,21,123 El Camino Real,,Belmont,CA,,
+20,21,123 El Camino Real,,Belmont,CA
 21,22,2013 Avenue of the fellows,Suite 100,San Francisco,CA,94103,US
